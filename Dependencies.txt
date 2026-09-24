@@ -1,0 +1,18 @@
+Client 
+npm install @google/generative-ai
+npm install react react-dom react-router-dom
+npm install bootstrap @fortawesome/fontawesome-free lucide-react
+npm install firebase
+npm install axios
+npm install --save-dev vite @vitejs/plugin-react eslint eslint-plugin-react
+npm install uuid
+//One line
+npm install react-router-dom bootstrap react-bootstrap framer-motion @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome lucide-react firebase axios @google/generative-ai react-markdown pdfjs-dist
+
+//Server
+npm install express cors dotenv
+npm install firebase-admin
+npm install --save-dev nodemon
+
+//root
+npm install react-markdown remark-gfm

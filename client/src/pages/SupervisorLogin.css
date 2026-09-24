@@ -1,0 +1,18 @@
+.login-page {
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 15px;
+}
+
+.login-card:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease-in-out;
+}
+
+.animate__animated.animate__fadeIn {
+  animation-duration: 1s;
+}
